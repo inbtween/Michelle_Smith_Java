@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0915b0d8-cf6c-4128-9bd2-335beea1e974" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/ConverterApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/ConverterIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/company/IfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/company/SwitchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/ConverterApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/ConverterIf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/If.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/Switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/company/IfTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/company/SwitchTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_2/src/main/java/com/company/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_2/src/main/java/com/company/CalculatorObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_2/src/test/java/com/company/CalculatorObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_3/src/main/java/com/company/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_3/src/main/java/com/company/FlavorSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_3/src/main/java/com/company/IceCreamFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_3/src/main/java/com/company/IceCreamPOS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_3/src/main/java/com/company/IceCreamSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_3/src/main/java/com/company/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_3/target/classes/com/company/IceCreamFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_3/target/classes/com/company/IceCreamPOS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_3/target/classes/com/company/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_4/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_4/src/main/java/com/company/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_4/src/main/java/com/company/Constable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_4/src/main/java/com/company/Farmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_4/src/main/java/com/company/Warrior.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1tHw8jdu9prOPkp7hxA78yp3bK1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IfTest.shouldReturnOneDay">
+    <configuration name="IfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ConverterInterface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.IfTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfTest.shouldReturnOneDay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ConverterInterface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.IfTest" />
+      <option name="METHOD_NAME" value="shouldReturnOneDay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ConverterInterface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.SwitchTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchTest.ifNumberIsOutsideOfDayRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ConverterInterface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.SwitchTest" />
+      <option name="METHOD_NAME" value="ifNumberIsOutsideOfDayRange" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IfTest.shouldReturnOneDay" />
+        <item itemvalue="JUnit.SwitchTest.ifNumberIsOutsideOfDayRange" />
+        <item itemvalue="JUnit.IfTest" />
+        <item itemvalue="JUnit.SwitchTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0915b0d8-cf6c-4128-9bd2-335beea1e974" name="Default Changelist" comment="" />
+      <created>1622439167339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622439167339</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
