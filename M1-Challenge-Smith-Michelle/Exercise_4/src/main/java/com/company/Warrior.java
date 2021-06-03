@@ -1,20 +1,30 @@
 package com.company;
 
-public class Warrior {
+public class Warrior extends Character {
+//      PROPERTIES
+protected String name = "Xi";
+    protected int strength = 75;
+    protected int health = 100;
+    protected int stamina = 100;
+    protected int speed = 50;
+    protected int attackPower = 10;
+    protected int shieldStrength = 100;
 
-    protected String name;
-    protected int strength;
-    //            (initial value = 75)
-    protected int health;
-    //            (initial value = 100)
-    protected int stamina;
-    //            (initial value = 100)
-    protected int speed;
-    //             (initial value = 50)
-    protected int attackPower;
-    //             (initial value = 10)
-    protected int shieldStrength;
-//               (initial value = 100)
+    public Warrior(String name, int strength, int health, int stamina, int speed, int attackPower, int shieldStrength) {
+        this.name = name;
+        this.strength = strength;
+        this.health = health;
+        this.stamina = stamina;
+        this.speed = speed;
+        this.attackPower = attackPower;
+        this.shieldStrength = shieldStrength;
+    }
+
+//      ABILITIES / METHODS()
+
+    public void decreaseShieldStrength() {
+    }
+
 
 
 }

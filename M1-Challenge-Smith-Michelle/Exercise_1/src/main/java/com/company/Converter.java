@@ -1,6 +1,6 @@
 package com.company;
 
-public interface ConverterIf {
+public interface Converter {
     /**
      * This method converts the given number into its corresponding month.
      *

@@ -1,6 +1,6 @@
 package com.company;
 
-public class If implements ConverterIf {
+public class If implements Converter {
 
     public String convertMonth(int monthNumber) {
         if (monthNumber == 1) {

@@ -5,51 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fef1d5a-35ce-4a20-8578-ce313a47f043" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/ConverterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/ConverterIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/src/test/java/com/company/IfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/src/test/java/com/company/SwitchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/target/classes/com/company/ConverterApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/target/classes/com/company/ConverterIf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/target/classes/com/company/If.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/target/classes/com/company/Switch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/target/test-classes/com/company/IfTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/target/test-classes/com/company/SwitchTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_2/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_2/src/main/java/com/company/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_2/src/main/java/com/company/CalculatorObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_2/src/test/java/com/company/CalculatorObjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_3/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_3/src/main/java/com/company/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_3/src/main/java/com/company/IceCreamFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_3/src/main/java/com/company/IceCreamPOS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_3/target/classes/com/company/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_3/target/classes/com/company/IceCreamFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_3/target/classes/com/company/IceCreamPOS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Constable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Farmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_1/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/ConverterIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/Converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/If.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/If.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Constable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Constable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Farmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Farmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Warrior.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
