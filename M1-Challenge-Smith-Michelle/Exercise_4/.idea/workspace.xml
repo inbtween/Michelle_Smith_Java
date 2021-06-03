@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fef1d5a-35ce-4a20-8578-ce313a47f043" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_1/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/ConverterIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/Converter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/If.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/If.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Constable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Constable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Farmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Farmer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Warrior.java" afterDir="false" />
-    </list>
+    <list default="true" id="0fef1d5a-35ce-4a20-8578-ce313a47f043" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class CalculatorObject {
 
-
     public static int add(int a, int b) {
         return a + b;
     }
