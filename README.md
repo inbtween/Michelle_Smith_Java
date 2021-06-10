@@ -1,1 +1,1 @@
-# Michelle_Smith_Java
+# Java Challenges
