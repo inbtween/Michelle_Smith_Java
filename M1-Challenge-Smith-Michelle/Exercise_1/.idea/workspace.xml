@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0915b0d8-cf6c-4128-9bd2-335beea1e974" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/ConverterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/ConverterApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/ConverterIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/If.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/If.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Switch.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../M2-Challenge-Smith-Michelle/quoteswordsaremagic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../M2-Challenge-Smith-Michelle/quoteswordsaremagic/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
