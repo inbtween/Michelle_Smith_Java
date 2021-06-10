@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class QuoteswordsaremagicApplication {
+public class QuotesWordsAreMagicApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(QuoteswordsaremagicApplication.class, args);
+		SpringApplication.run(QuotesWordsAreMagicApplication.class, args);
 	}
 
 }
