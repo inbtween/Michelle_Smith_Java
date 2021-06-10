@@ -2,16 +2,16 @@ package com.company.quoteswordsaremagic.model;
 
 import java.util.Objects;
 
-public class Word {
+public class Definition {
 
     private int id;
     private String word;
     private String definition;
 
-    public Word() {
+    public Definition() {
     }
 
-    public Word(int id, String word, String definition) {
+    public Definition(int id, String word, String definition) {
         this.id = id;
         this.word = word;
         this.definition = definition;
@@ -45,8 +45,8 @@ public class Word {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        Word word1 = (Word) o;
-        return id == word1.id && Objects.equals(word, word1.word) && Objects.equals(definition, word1.definition);
+        Definition definition1 = (Definition) o;
+        return id == definition1.id && Objects.equals(word, definition1.word) && Objects.equals(definition, definition1.definition);
     }
 
     @Override

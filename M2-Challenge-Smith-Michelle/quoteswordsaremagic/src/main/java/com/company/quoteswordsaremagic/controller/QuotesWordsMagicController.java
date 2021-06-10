@@ -2,7 +2,7 @@ package com.company.quoteswordsaremagic.controller;
 
 import com.company.quoteswordsaremagic.model.MagicBall;
 import com.company.quoteswordsaremagic.model.Quote;
-import com.company.quoteswordsaremagic.model.Word;
+import com.company.quoteswordsaremagic.model.Definition;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
@@ -32,18 +32,18 @@ public class QuotesWordsMagicController {
             new Quote(11, "Fitzwilliam Darcy", "My good opinion once lost, is lost forever.")
     ));
 
-    private static List<Word> wordList = new ArrayList<>(Arrays.asList(
+    private static List<Definition> definitionList = new ArrayList<>(Arrays.asList(
 //            https://www.oxfordlearnersdictionaries.com/
-            new Word(1, "Dichotomy", "a division or contrast between two groups or things that are completely opposite to and different from each other"),
-            new Word(2, "Erstwhile","former; that until recently was the type of person or thing described but is not any more" ),
-            new Word(3, "Plausible", "of an excuse or explanation) reasonable and likely to be true"),
-            new Word(4, "Snafu", "a situation in which nothing happens as planned"),
-            new Word(5, "Pandemonium", "a situation in which there is a lot of noise and activity with a great lack of order, especially because people are feeling angry or frightened"),
-            new Word(6, "Cajole", "to make somebody do something by talking to them and being very nice to them"),
-            new Word(7, "Bard", "a person who writes poems"),
-            new Word(8, "Adage", "a well-known phrase expressing a general truth about people or the world"),
-            new Word(9, "Epoch", "a period of time in history, especially one during which important events or changes happen"),
-            new Word(10, "Tome", "a large, heavy book, especially one dealing with a serious topic")
+            new Definition(1, "Dichotomy", "a division or contrast between two groups or things that are completely opposite to and different from each other"),
+            new Definition(2, "Erstwhile","former; that until recently was the type of person or thing described but is not any more" ),
+            new Definition(3, "Plausible", "of an excuse or explanation) reasonable and likely to be true"),
+            new Definition(4, "Snafu", "a situation in which nothing happens as planned"),
+            new Definition(5, "Pandemonium", "a situation in which there is a lot of noise and activity with a great lack of order, especially because people are feeling angry or frightened"),
+            new Definition(6, "Cajole", "to make somebody do something by talking to them and being very nice to them"),
+            new Definition(7, "Bard", "a person who writes poems"),
+            new Definition(8, "Adage", "a well-known phrase expressing a general truth about people or the world"),
+            new Definition(9, "Epoch", "a period of time in history, especially one during which important events or changes happen"),
+            new Definition(10, "Tome", "a large, heavy book, especially one dealing with a serious topic")
     ));
 
     private static List<String> magicBallList = new ArrayList<>(Arrays.asList(
@@ -68,11 +68,11 @@ public class QuotesWordsMagicController {
 
         @RequestMapping(value = "/word", method = RequestMethod.GET)
         @ResponseStatus(HttpStatus.OK)
-        public Word getWordDefinition() {
-        int wordIndex = rand.nextInt(wordList.size());
-        Word selectWord = wordList.get(wordIndex);
+        public Definition getWordDefinition() {
+        int wordIndex = rand.nextInt(definitionList.size());
+        Definition selectDefinition = definitionList.get(wordIndex);
 
-        return selectWord;
+        return selectDefinition;
         }
 
         int magicBallCounter = +1;
