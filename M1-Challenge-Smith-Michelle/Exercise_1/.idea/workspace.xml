@@ -6,9 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="0915b0d8-cf6c-4128-9bd2-335beea1e974" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_2/src/test/java/com/company/CalculatorObjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_2/src/test/java/com/company/CalculatorObjectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_2/target/classes/com/company/CalculatorObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_2/target/classes/com/company/CalculatorObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_2/target/test-classes/com/company/CalculatorObjectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_2/target/test-classes/com/company/CalculatorObjectTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/ConverterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/ConverterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/ConverterIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/If.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/If.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Switch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M2-Challenge-Smith-Michelle/quoteswordsaremagic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../M2-Challenge-Smith-Michelle/quoteswordsaremagic/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +46,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -53,7 +56,20 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.IfTest.shouldReturnOneDay">
+  <component name="RunManager" selected="Application.ConverterApplication">
+    <configuration name="ConverterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ConverterApplication" />
+      <module name="ConverterInterface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ConverterInterface" />
       <extension name="coverage">
@@ -118,6 +134,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConverterApplication" />
         <item itemvalue="JUnit.IfTest.shouldReturnOneDay" />
         <item itemvalue="JUnit.SwitchTest.ifNumberIsOutsideOfDayRange" />
         <item itemvalue="JUnit.IfTest" />
