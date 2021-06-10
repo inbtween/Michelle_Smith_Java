@@ -15,6 +15,7 @@ public class CalculatorObjectTest {
         assertEquals(failMessage, 5, calc.add(2, 3));
         assertEquals(failMessage, 17, calc.add(20, -3));
         assertEquals(failMessage, 1, calc.add(0, 1));
+        assertEquals(failMessage, 12, calc.add(2,10));
     }
     @Test
     public void shouldReturnDifferenceOfTwoIntegersWhenGivenTwoIntegers() {
