@@ -47,12 +47,13 @@ public class QuotesWordsMagicController {
     ));
 
     private static List<String> magicBallList = new ArrayList<>(Arrays.asList(
+            "YVery doubtful",
+            "Concentrate and ask again",
+            "Cannot predict now",
+            "Outlook good",
+            "Without a doubt",
             "Yes",
-            "Of course",
-            "Too soon",
-            "No",
-            "Say no more",
-            "Maybe"
+            "Ask again later"
     ));
 
     @RequestMapping(value = "/quote", method = RequestMethod.GET)
