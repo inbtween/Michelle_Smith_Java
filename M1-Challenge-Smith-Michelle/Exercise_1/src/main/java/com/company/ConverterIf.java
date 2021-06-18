@@ -1,6 +1,6 @@
 package com.company;
 
-public class If implements Converter {
+public class ConverterIf implements Converter {
 
     public String convertMonth(int monthNumber) {
         if (monthNumber == 1) {
@@ -25,8 +25,10 @@ public class If implements Converter {
             return "October";
         } else if (monthNumber == 11) {
             return "November";
-        } else
+        } else if (monthNumber == 12) {
             return "December";
+        }
+        else return "error";
     }
 
     public String convertDay(int dayNumber) {
@@ -44,6 +46,6 @@ public class If implements Converter {
             return "Friday";
         } else if (dayNumber == 7) {
             return "Saturday";
-        } else return "Please enter a number between 1 and 7";
+        } else return "error";
     }
 }

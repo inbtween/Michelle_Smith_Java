@@ -3,24 +3,34 @@ import java.util.Objects;
 public class Address {
     //    Billing address
 
-    private String Street;
+    private String Street1;
+    private String Street2;
     private String City;
     private String State;
     private String Zipcode;
 
-    public Address(String street, String city, String state, String zipcode) {
-        Street = street;
+    public Address(String street1, String street2, String city, String state, String zipcode) {
+        Street1 = street1;
+        Street2 = street2;
         City = city;
         State = state;
         Zipcode = zipcode;
     }
 
-    public String getStreet() {
-        return Street;
+    public String getStreet1() {
+        return Street1;
     }
 
-    public void setStreet(String street) {
-        Street = street;
+    public void setStreet1(String street1) {
+        Street1 = street1;
+    }
+
+    public String getStreet2() {
+        return Street2;
+    }
+
+    public void setStreet2(String street2) {
+        Street2 = street2;
     }
 
     public String getCity() {
@@ -52,18 +62,19 @@ public class Address {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Address address = (Address) o;
-        return Objects.equals(Street, address.Street) && Objects.equals(City, address.City) && Objects.equals(State, address.State) && Objects.equals(Zipcode, address.Zipcode);
+        return Objects.equals(Street1, address.Street1) && Objects.equals(Street2, address.Street2) && Objects.equals(City, address.City) && Objects.equals(State, address.State) && Objects.equals(Zipcode, address.Zipcode);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(Street, City, State, Zipcode);
+        return Objects.hash(Street1, Street2, City, State, Zipcode);
     }
 
     @Override
     public String toString() {
         return "Address{" +
-                "Street='" + Street + '\'' +
+                "Street1='" + Street1 + '\'' +
+                ", Street2='" + Street2 + '\'' +
                 ", City='" + City + '\'' +
                 ", State='" + State + '\'' +
                 ", Zipcode='" + Zipcode + '\'' +

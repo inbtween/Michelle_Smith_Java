@@ -29,7 +29,7 @@ public class QuotesWordsMagicController {
             new Quote(8, "Charles Dickens", "Life is made of ever so many partings welded together."),
             new Quote(9, "Thomas Jefferson", "I find that the harder I work, the more luck I seem to have." ),
             new Quote(10, "Steve Jobs", "If you really look closely, most overnight successes took a long time."),
-            new Quote(11, "Fitzwilliam Darcy", "My good opinion once lost, is lost forever.")
+            new Quote(11, "FitzWilliam Darcy", "My good opinion once lost, is lost forever.")
     ));
 
     private static List<Definition> definitionList = new ArrayList<>(Arrays.asList(
@@ -47,7 +47,7 @@ public class QuotesWordsMagicController {
     ));
 
     private static List<String> magicBallList = new ArrayList<>(Arrays.asList(
-            "YVery doubtful",
+            "Very doubtful",
             "Concentrate and ask again",
             "Cannot predict now",
             "Outlook good",

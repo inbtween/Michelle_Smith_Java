@@ -6,8 +6,21 @@
   <component name="ChangeListManager">
     <list default="true" id="0fef1d5a-35ce-4a20-8578-ce313a47f043" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Exercise_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/ConverterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/ConverterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/If.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/ConverterIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/ConverterSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/src/test/java/com/company/IfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_1/src/test/java/com/company/ConverterIfTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/src/test/java/com/company/SwitchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_1/src/test/java/com/company/ConverterSwitchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/target/classes/com/company/ConverterApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_1/target/classes/com/company/ConverterApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/target/classes/com/company/ConverterIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_1/target/classes/com/company/ConverterIf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/target/classes/com/company/If.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/target/classes/com/company/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/target/test-classes/com/company/IfTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/target/test-classes/com/company/SwitchTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_3/src/main/java/com/company/IceCreamFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_3/src/main/java/com/company/IceCreamFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../M2-Challenge-Smith-Michelle/quoteswordsaremagic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../M2-Challenge-Smith-Michelle/quoteswordsaremagic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_5/src/main/java/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_5/src/main/java/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M2-Challenge-Smith-Michelle/quoteswordsaremagic/src/main/java/com/company/quoteswordsaremagic/controller/QuotesWordsMagicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../M2-Challenge-Smith-Michelle/quoteswordsaremagic/src/main/java/com/company/quoteswordsaremagic/controller/QuotesWordsMagicController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

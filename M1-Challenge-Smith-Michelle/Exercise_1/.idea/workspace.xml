@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0915b0d8-cf6c-4128-9bd2-335beea1e974" name="Default Changelist" comment="" />
+    <list default="true" id="0915b0d8-cf6c-4128-9bd2-335beea1e974" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/ConverterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/ConverterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/If.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/ConverterIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/ConverterSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/company/IfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/company/ConverterIfTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/company/SwitchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/company/ConverterSwitchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_3/src/main/java/com/company/IceCreamFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_3/src/main/java/com/company/IceCreamFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_5/src/main/java/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_5/src/main/java/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M2-Challenge-Smith-Michelle/quoteswordsaremagic/src/main/java/com/company/quoteswordsaremagic/controller/QuotesWordsMagicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../M2-Challenge-Smith-Michelle/quoteswordsaremagic/src/main/java/com/company/quoteswordsaremagic/controller/QuotesWordsMagicController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,62 +74,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConverterIfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ConverterInterface" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.If" />
+          <option name="PATTERN" value="com.company.ConverterIf" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.IfTest" />
+      <option name="MAIN_CLASS_NAME" value="com.company.ConverterIfTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfTest.shouldReturnOneDay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConverterIfTest.shouldReturnOneDay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ConverterInterface" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.If" />
+          <option name="PATTERN" value="com.company.ConverterIf" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.IfTest" />
+      <option name="MAIN_CLASS_NAME" value="com.company.ConverterIfTest" />
       <option name="METHOD_NAME" value="shouldReturnOneDay" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConverterSwitchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ConverterInterface" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.If" />
+          <option name="PATTERN" value="com.company.ConverterIf" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.SwitchTest" />
+      <option name="MAIN_CLASS_NAME" value="com.company.ConverterSwitchTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchTest.ifNumberIsOutsideOfDayRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConverterSwitchTest.ifNumberIsOutsideOfDayRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ConverterInterface" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.If" />
+          <option name="PATTERN" value="com.company.ConverterIf" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.SwitchTest" />
+      <option name="MAIN_CLASS_NAME" value="com.company.ConverterSwitchTest" />
       <option name="METHOD_NAME" value="ifNumberIsOutsideOfDayRange" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -128,10 +139,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ConverterApplication" />
-        <item itemvalue="JUnit.IfTest.shouldReturnOneDay" />
-        <item itemvalue="JUnit.SwitchTest.ifNumberIsOutsideOfDayRange" />
-        <item itemvalue="JUnit.IfTest" />
-        <item itemvalue="JUnit.SwitchTest" />
+        <item itemvalue="JUnit.ConverterIfTest.shouldReturnOneDay" />
+        <item itemvalue="JUnit.ConverterSwitchTest.ifNumberIsOutsideOfDayRange" />
+        <item itemvalue="JUnit.ConverterIfTest" />
+        <item itemvalue="JUnit.ConverterSwitchTest" />
       </list>
     </recent_temporary>
   </component>

@@ -12,24 +12,24 @@ public class ConverterApplication {
         System.out.println("Please enter the month by number: ");
         int userNumberByMonth = Integer.parseInt(scanner.nextLine());
         //        bring in an obj finding the method of that obj, convertMonth() and convertDay() in the Switch Class
-        Switch aSwitch = new Switch();
-        System.out.println(aSwitch.convertMonth(userNumberByMonth));
+        ConverterSwitch aConverterSwitch = new ConverterSwitch();
+        System.out.println(aConverterSwitch.convertMonth(userNumberByMonth));
 
 
         System.out.println("Please enter the day by number: ");
         int userNumberByDay = Integer.parseInt(scanner.nextLine());
-        System.out.println(aSwitch.convertDay(userNumberByDay));
+        System.out.println(aConverterSwitch.convertDay(userNumberByDay));
 
 //      If statement
         System.out.println("Please enter the month by number: ");
         int userNumberByMonthReturnMonth = Integer.parseInt(scanner.nextLine());
         //        bring in an obj finding the method of that obj, convertMonth() and convertDay() in the If Class
-        If anIf = new If();
-        System.out.println(anIf.convertMonth(userNumberByMonthReturnMonth));
+        ConverterIf anConverterIf = new ConverterIf();
+        System.out.println(anConverterIf.convertMonth(userNumberByMonthReturnMonth));
 
         System.out.println("Please enter the month by number: ");
         int userNumberByDayReturnDay = Integer.parseInt(scanner.nextLine());
-        System.out.println(anIf.convertDay(userNumberByDayReturnDay));
+        System.out.println(anConverterIf.convertDay(userNumberByDayReturnDay));
 
 
     }
