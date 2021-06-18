@@ -27,7 +27,7 @@ public class ConverterApplication {
         ConverterIf anConverterIf = new ConverterIf();
         System.out.println(anConverterIf.convertMonth(userNumberByMonthReturnMonth));
 
-        System.out.println("Please enter the month by number: ");
+        System.out.println("Please enter the day by number: ");
         int userNumberByDayReturnDay = Integer.parseInt(scanner.nextLine());
         System.out.println(anConverterIf.convertDay(userNumberByDayReturnDay));
 

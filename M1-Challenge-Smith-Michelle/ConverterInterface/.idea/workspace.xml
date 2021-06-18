@@ -4,7 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0915b0d8-cf6c-4128-9bd2-335beea1e974" name="Default Changelist" comment="" />
+    <list default="true" id="0915b0d8-cf6c-4128-9bd2-335beea1e974" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/ConverterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/ConverterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/.If.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/.Switch.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/company/.IfTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/company/.SwitchTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/Converter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/ConverterApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/ConverterIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/src/main/java/com/company/ConverterSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/src/test/java/com/company/ConverterIfTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/src/test/java/com/company/ConverterSwitchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/target/classes/com/company/.If.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/target/classes/com/company/.Switch.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/target/classes/com/company/Converter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/target/classes/com/company/ConverterApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/target/classes/com/company/ConverterIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/target/classes/com/company/ConverterSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/target/test-classes/com/company/.IfTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/target/test-classes/com/company/.SwitchTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/target/test-classes/com/company/ConverterIfTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/target/test-classes/com/company/ConverterSwitchTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_4/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
